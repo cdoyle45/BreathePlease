@@ -1,0 +1,56 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "caseydoyle64@gmail.com",
+    "longName": "BreathePlease",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/cloud.png",
+                "name": "IMAGES_CLOUD_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/breathe_bg.png",
+                "name": "IMAGES_BREATHE_BG_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud1.png",
+                "name": "IMAGES_CLOUD1_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "BreathePlease",
+    "uuid": "0b1c437e-491a-4eb2-8001-7aaedfdc6de1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
